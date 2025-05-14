@@ -29,4 +29,4 @@ This project demonstrates my SQL skills applied to a retail sales dataset. It in
 
 1. **Clone** this repository  
    ```bash
-   git clone https://github.com/your-username/retail-sales-analysis.git
+   git clone https://github.com/guptaghanshyam/Retail-Sales-Analysis-SQL-Project
